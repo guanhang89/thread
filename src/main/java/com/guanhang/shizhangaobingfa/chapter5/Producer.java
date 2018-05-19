@@ -4,7 +4,6 @@ import com.lmax.disruptor.BlockingWaitStrategy;
 import com.lmax.disruptor.RingBuffer;
 import com.lmax.disruptor.dsl.Disruptor;
 import com.lmax.disruptor.dsl.ProducerType;
-import com.sun.xml.internal.bind.v2.model.runtime.RuntimeReferencePropertyInfo;
 
 import java.nio.ByteBuffer;
 import java.util.concurrent.Executor;
